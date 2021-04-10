@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-no one gonna help you 🤣🤣🤣🤣
+no one gonna help you 🤣🤣🤣
 
 
     HELP_MSG = """
