@@ -11,7 +11,7 @@ no one gonna help you 🤣🤣🤣
 
 <b>Basic Commands;</b>
 
-/start - Check if I'm alive!
+/start - no one gonna help you 🤣🤣🤣
 /help - Command help
 /about - Something about me!
 
