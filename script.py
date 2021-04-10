@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = """no one gonna help you 🤣🤣🤣
+    START_MSG = """no one gonna help you 🤣🤣🤣"""
 
 
 
