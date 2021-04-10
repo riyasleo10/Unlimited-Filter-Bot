@@ -1,8 +1,8 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """no one gonna help you 🤣🤣🤣
 
-no one gonna help you 🤣🤣🤣
+
 
 
     HELP_MSG = """
